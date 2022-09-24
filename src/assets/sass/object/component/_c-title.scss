@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@use '../../foundation/index' as index;
+/*=================
+c-tit
+=================*/
+
+.c-fv__tit {
+  font-size: index.$fz-title;
+}
+.c-section__tit {
+  font-size: index.$fz-sub-title;
+}
